@@ -6,8 +6,9 @@ An interactive and responsive AG Grid React dashboard to display employee data, 
 -> Employee Data Table
 
 Displays employee details such as name, department, salary, skills, and manager.
-
+Grouped columns by sections.
 Interactive sorting, filtering, and searching with AG Grid.
+Search records.
 
 -> Theme Toggle
 
